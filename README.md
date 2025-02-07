@@ -7,8 +7,6 @@ The AVOCADO bot, or **Automatic Vehicle Odometry Cartography And Dynamic Obstacl
 
 [Please follow this link if you would like to see the 3D CAD design of the AVOCADO Bot](https://autode.sk/4hkM8vB)
 
-![AVOCADO Bot spinning](AVOCADO_Bot_spinning.gif)
+![AVOCADO Bot exploding](images/AVOCADO_Bot_exploding.gif)
 
-![AVOCADO Bot exploding](AVOCADO_Bot_exploding.gif)
-
-![AVOCADO Bot Photoshoot](AVOCAD_Bot_photoshoot.jpeg)
+![AVOCADO Bot Photoshoot](images/AVOCAD_Bot_photoshoot.jpeg)
