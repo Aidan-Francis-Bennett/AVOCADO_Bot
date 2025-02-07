@@ -9,4 +9,4 @@ The AVOCADO bot, or **Automatic Vehicle Odometry Cartography And Dynamic Obstacl
 
 ![AVOCADO Bot exploding](images/AVOCADO_Bot_exploding.gif)
 
-![AVOCADO Bot Photoshoot](images/AVOCAD_Bot_photoshoot.jpeg)
+![AVOCADO Bot Photoshoot](images/AVOCADO_Bot_photoshoot.jpeg)
