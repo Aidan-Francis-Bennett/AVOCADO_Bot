@@ -11,7 +11,7 @@ The AVOCADO bot, or **Automatic Vehicle Odometry Cartography And Dynamic Obstacl
 
 ![AVOCADO Bot Photoshoot](images/AVOCADO_Bot_photoshoot.jpeg)
 
-##Please see these slides for a summary of the design philosophy, physical chassis design, and the maze solving algorithm
+## Please see these slides for a summary of the design philosophy, physical chassis design, and the maze solving algorithm
 
 ![slides1](images/AVOBOT1.jpg)
 ![slides2](images/AVOBOT2.jpg)
