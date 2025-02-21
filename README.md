@@ -3,7 +3,7 @@
 
 The AVOCADO bot, or **Automatic Vehicle Odometry Cartography And Dynamic Obstacle Avoidance** Bot, is a differential drive robot which uses an Arduino Nano 33 BLE microcontroller, two motors, three ultra sonic sensors, and two Infrared sensors to solve a simple maze using a left wall following algorithm.
 
-[Please see this short demonstration video of the robot completing the maze.](https://youtu.be/ALUXkd842Mw)
+[Please see this short demonstration video of the robot completing the maze.](https://youtu.be/D47gjgtDEJY)
 
 [Please follow this link if you would like to see the 3D CAD design of the AVOCADO Bot.](https://autode.sk/4hkM8vB)
 
