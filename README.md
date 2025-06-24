@@ -5,7 +5,7 @@ The AVOCADO bot, or **Automatic Vehicle Odometry Cartography And Dynamic Obstacl
 
 [Please see this short demonstration video of the robot completing the maze.](https://youtu.be/D47gjgtDEJY)
 
-[Please follow this link if you would like to see the 3D CAD design of the AVOCADO Bot.](https://autode.sk/4hkM8vB)
+[Please follow this link if you would like to see the 3D CAD design of the AVOCADO Bot.](https://autode.sk/4lf5ELG)
 
 ![AVOCADO Bot exploding](images/AVOCADO_Bot_exploding.gif)
 
